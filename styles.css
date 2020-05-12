@@ -26,10 +26,17 @@ table, th, tr, td {
 	text-align:center;
 	border:1px black solid;
 	background-color:#40ff00;
+	padding-bottom:2px;
+	padding-top:2px;
+}
+
+.listHead {
+	padding-bottom:10px;
+	padding-top:10px;
 }
 
 .listHeading {
-	width:50%;
+	width:70%;
 	text-align:center;
 	border:2px black solid;
 	background-color:#2db300;
@@ -42,6 +49,8 @@ td {
 
 .classHeading {
 	background-color:#2db300;
+	padding-bottom:10px;
+	padding-top:10px;
 }
 
 body {
