@@ -101,11 +101,11 @@ nav {
 }
 
 .projectHeading {
-	background-color:orange;
+	background-color:#ffb300;
 }
 
 .projectBody {
-	background-color:#ffd633;
+	background-color:#fff01a;
 	padding-top:10px;
 	padding-bottom:10px;
 }
@@ -300,39 +300,24 @@ p {
 	border-color:#2db300;
 }
 
-.btn-primary:active {
-	background-color:#510ac2;
-	border-color:#510ac2;
-}
-
-.btn-danger:active {
-	background-color:#e41b79;
-	border-color:#e41b79;
-}
-
-.btn-success:active {
-	background-color:#1cb084;
-	border-color:#1cb084;
-}
-
 #personality1 {
 	background-color:#ff3399;
-	background:linear-gradient(#ff3399, #ff80bf, #ff3399);
+	background:linear-gradient(#ff3399, #ff66b3, #ff3399);
 }
 
 #personality2 {
 	background-color:#ffcc00;
-	background:linear-gradient(#ffcc00, #ffe680, #ffcc00);
+	background:linear-gradient(#ffcc00, #ffe066, #ffcc00);
 }
 
 #personality3 {
 	background-color:#80ff00;
-	background:linear-gradient(#80ff00, #ccff99, #80ff00);
+	background:linear-gradient(#80ff00, #b3ff66, #80ff00);
 }
 
 #personality4 {
 	background-color:#00ccff;
-	background:linear-gradient(#00ccff, #99ebff, #00ccff);
+	background:linear-gradient(#00ccff, #80e5ff, #00ccff);
 }
 
 .card {
